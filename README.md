@@ -1,4 +1,4 @@
-<img aling="right" alt="coding" width="100%" height='400px' src="https://s298sas.storage.yandex.net/rdisk/c497fe08a3adb8474330388be74eb0d40c59d941f41f1c57300113d02ba7320e/632af2fa/9sadPsT_fK7vdTG4hEqmbnXPCZZGuU8SpiFYsncgTaZbmXUi1uLPc6oqc0W8gRxURKH6WPXc39UbMciZjN671A==?uid=0&filename=ORIGINAL.gif&disposition=inline&hash=&limit=0&content_type=image%2Fgif&owner_uid=0&fsize=2713337&hid=10db398f26978384ec5a5b8473fd5263&media_type=image&tknv=v2&etag=de9080fa87237460bfff05d9650a11e1&rtoken=piXwb1djXAxj&force_default=no&ycrid=na-354ef1cc58266fd90570b3990ee52833-downloader18h&ts=5e92e1a073280&s=15e1b2f176e1cc971a0d1f8b58368a4553297b100f9ff57d7c1f773e5539ee62&pb=U2FsdGVkX18ENxkrOK22uN1gDEiRYpGne7zx18QCeBY9VtFciBhQQVk7sWdZDvjPBRpzXIeQKtHfRIQ9PSaClrPet4GBuX8BAGrIiddJyfo">
+<img aling="right" alt="coding" width="100%" height='400px' src="./img/ORIGINAL.gif">
 
 <h1 align="center">Hi 👋, I'm Kirill Mikhaylets</h1>
 <h3 align="center">Full Stack developer</h3>
@@ -22,4 +22,4 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://t.me/kirill_mih" target="_blank" rel="noreferrer"><img src="https://s412vla.storage.yandex.net/rdisk/5e1b835c676b727f3e713fe56a9c112911aefda318fbf5f77298e24591c75bff/632896ae/9sadPsT_fK7vdTG4hEqmbnNyHuGuI9hO9k-N5zmNb7fxCbQz9eJDAyh1JyKrBjNjWZ6BiCDim4iORZyciFj-yg==?uid=0&filename=telegramlogo-260-75.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=13289&hid=61edf363da1e89c1fc34498ddb6feada&media_type=image&tknv=v2&etag=2c0f364b18a6289b89bdf0c1bea5eece&rtoken=P3sKIT5eS8BN&force_default=no&ycrid=na-f5d5d4776431797a82d527354456a30e-downloader23f&ts=5e90a15308780&s=dd8e542d6b129d20648b41673b8e1cf9ffa051a2fc6df99354b51bb449fbcccd&pb=U2FsdGVkX19bJIoUMtj9xwQZTGTG0qw920O0H7jhUIuH9yjzZmoS_0jxssxrU3Jhkl9AQ4eakTzTqFQLsB41rVNXihMFD1doBKT6Mu4Q37s" alt="tg" width="150" height="40"/> </a>
+<a href="https://t.me/kirill_mih" target="_blank" rel="noreferrer"><img src="./img/telegram.png" alt="tg" width="150" height="40"/> </a>
