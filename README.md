@@ -22,4 +22,4 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://t.me/kirill_mih" target="_blank" rel="noreferrer"><img src="./img/telegram.png" alt="tg" width="150" height="40"/> </a>
+<a href="https://t.me/kirill_mih" target="_blank" rel="noreferrer"><img src="./img/telegram.png" alt="tg" width="50" height="40"/> </a>
